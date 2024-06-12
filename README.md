@@ -8,6 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jmacker101&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=jmacker101&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jmacker101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=true" height="150" alt="languages graph"  />
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExajd6dmdmdzg5c3A2dGozdWM4YmY2ZTYwMTIxZzk5b3JwOTRuc2hmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yhLV2DGTLDRCw/giphy.gif" />
 </div>
 
 ###
@@ -47,5 +48,3 @@
 <img src="https://raw.githubusercontent.com/jmacker101/jmacker101/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
