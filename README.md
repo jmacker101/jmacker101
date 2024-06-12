@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
@@ -48,7 +46,6 @@
 <img src="https://raw.githubusercontent.com/jmacker101/jmacker101/output/snake.svg" alt="Snake animation" />
 
 ###
-
 
 
 <!--
