@@ -26,7 +26,8 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="![image](https://github.com/jmacker101/jmacker101/assets/164845905/d5fe79bd-3259-47ba-93b0-1848767737da)
+"  />
 
 ###
 
